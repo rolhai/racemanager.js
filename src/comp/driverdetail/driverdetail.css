@@ -1,0 +1,13 @@
+.driver__detail-title {
+    background-color: lightgreen;
+    text-align: center;
+    display: inline-block;
+    font-family: Helvetica;
+    width: 30%
+}
+
+.driver__detail-age {
+    background-color: lightgray;
+    text-align: right;
+    width: 30%
+}
