@@ -16,7 +16,7 @@ gather race results than you can analyse various statistics.
 install server
 $ npm install -g static-server
 
-## build/start frontend
+## start frontend
 
 start server
 $ static-server
