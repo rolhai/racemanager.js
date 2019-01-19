@@ -13,12 +13,12 @@ gather race results than you can analyse various statistics.
 
 ## installation
 
-install server
+- install server
 $ npm install -g static-server
 
 ## start frontend
 
-start server
+- start server
 $ static-server
 
 open browser with http://localhost:9080/
